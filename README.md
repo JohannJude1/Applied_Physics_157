@@ -28,3 +28,6 @@ Calculation of network characteristics, centrality measures, and identification 
 
 ### Monte Carlo methods
 Generation of cosmological constraints using synthetic Hubble diagram data from gravitational-wave (GW) sirens
+
+## Final Project
+Music genre classification using the GTZAN dataset from Kaggle
