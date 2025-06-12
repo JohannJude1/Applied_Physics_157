@@ -23,10 +23,10 @@ Generation of synthetic apertures for FFT applications, image convolution to ape
 
 ## Module C: Networks
 
-### Network generation
+### C1 Network generation
 Calculation of network characteristics, centrality measures, and identification of communities
 
-### Monte Carlo methods
+### C2 Monte Carlo methods
 Generation of cosmological constraints using synthetic Hubble diagram data from gravitational-wave (GW) sirens
 
 ## Final Project
